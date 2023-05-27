@@ -1,0 +1,11 @@
+- "dependencies":
+  - "WEB-INF"
+  - "WEB-INF/lib/"
+- "spring-boot-loader":
+  - "org/"
+- "snapshot-dependencies":
+- "application":
+  - "META-INF/"
+  - "WEB-INF"
+  - "WEB-INF/classpath.idx"
+  - "WEB-INF/layers.idx"
